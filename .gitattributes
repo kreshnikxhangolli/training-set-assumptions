@@ -1,0 +1,4 @@
+training_set_assumptions.html linguist-documentation
+*.Rnw linguist-language=R
+*.Rmd linguist-language=R
+*.Rproj linguist-language=R
